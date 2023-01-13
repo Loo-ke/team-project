@@ -44,7 +44,7 @@ router.post('/', upload.array('file'), async function(req, res) {
   // const conn = await mysql.createConnection({
   //   host : 'localhost',
   //   user : 'root',
-  //   password : '181015',
+  //   password : '123456789',
   //   database : 'node_project'
   // })
 
